@@ -112,6 +112,7 @@ p {
     margin-bottom: 30px;
     margin-top: 20px;
     opacity: 0.9;
+    border: none;
 }
 
 #mainbut:hover {
